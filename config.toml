@@ -1,0 +1,61 @@
+baseURL = "https://www.hackerspacevn.com/"
+languageCode = "en-us"
+title = "HackerSpaceVN"
+staticDir = ["static"]
+theme = "razorgrrl-theme"
+summaryLength = "30"
+disqusShortname = "hackerspacevn"
+publishDir = "docs"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+[params]
+headline = "Welcome!"
+author = "san"
+description = """HackerspaceVN aims to motivate young people and build better community!"""
+
+[markup.goldmark.renderer]
+unsafe= true
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+docsrepo = ""
+siterepo = "/content/posts"
+license = ""
+licenseimg = ""
+
+[permalinks]
+    post = "/blog/:title/"
+
+[params.navigation]
+
+  [[params.navigation.list]]
+    name = "home"
+    link = "/"
+
+  [[params.navigation.list]]
+    name = "archives"
+    link = "/archives"
+
+  [[params.navigation.list]]
+    name = "what"
+    link = "https://en.wikipedia.org/wiki/Hackerspace"
+
+  [[params.navigation.list]]
+    name = "time & place"
+    link = "/whereandwhen"
+
+  [[params.navigation.list]]
+    name = "about"
+    link = "/about"
+
+[params.contact]
+  [[params.contact.list]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    link = "mailto:"
+

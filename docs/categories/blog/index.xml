@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on HackerSpaceVN</title>
+    <link>https://www.hackerspacevn.com/categories/blog/</link>
+    <description>Recent content in blog on HackerSpaceVN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2020 16:15:45 +1000</lastBuildDate>
+    
+        <atom:link href="https://www.hackerspacevn.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.hackerspacevn.com/posts/hellovietnam/</link>
+      <pubDate>Wed, 08 Jan 2020 16:15:45 +1000</pubDate>
+      
+      <guid>https://www.hackerspacevn.com/posts/hellovietnam/</guid>
+      <description>&lt;p&gt;Ấp ủ bao lâu nay, đây là lần đầu tiền mình bắt tay vào làm một &lt;a href=&#34;https://en.wikipedia.org/wiki/Hackerspace&#34;&gt;hackerspace&lt;/a&gt; cho các bạn trẻ Việt Nam - bắt đầu từ Hà Nội.&lt;/p&gt;
+&lt;h3 id=&#34;hackerspace-l-g&#34;&gt;Hackerspace là gì?&lt;/h3&gt;
+&lt;p&gt;Hackerspace là một sân chơi cho những người ham học hỏi.&lt;/p&gt;
+ </description>
+    </item>
+    
+  </channel>
+</rss>
