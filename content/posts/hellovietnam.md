@@ -9,6 +9,8 @@ draft: false
 
 WOW! Hóa ra Hackerspace còn được gọi ở nhiều nơi là fablab (fabricator lab) và Việt Nam có khá nhiều nơi với lab đã được đầu tư, trang bị (CNC machines, 3d printers etc..). Vậy nên mình cũng không nhất thiết phải bắt đầu một space mới! :) Đây có lẽ là ý tưởng chết nhanh nhất của mình từ trước đến nay =)) Regardless, mình sẽ vẫn dữ domain này và có thể làm một cái gì đó khác với nó. Mình thấy makerspace / fablab rất hay và chuyên về phần cứng... Có thể mình sẽ làm về phần mềm chăng? Who knows. 
 
+Nếu ai muốn tìm đến makerspace/fablab,  mình thấy là địa chỉ [này](https://www.fablabs.io/labs?country=vn) có khá nhiều thông tin.
+
 ### Hackerspace là gì?
 
 [Hackerspace](https://wiki.hackerspaces.org/) là một sân chơi cho những người ham học hỏi và cũng là nơi để bạn chia sẻ kiến thức. 
