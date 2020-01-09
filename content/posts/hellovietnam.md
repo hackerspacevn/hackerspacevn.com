@@ -7,7 +7,7 @@ tags: []
 draft: false
 ---
 
-Ấp ủ bao lâu nay, đây là lần đầu tiền mình bắt tay vào làm một [hackerspace](https://wiki.hackerspaces.org/) cho các bạn trẻ Việt Nam - bắt đầu từ Hà Nội. 
+WOW! Hóa ra Hackerspace còn được gọi ở nhiều nơi là fablab (fabricator lab) và Việt Nam có khá nhiều nơi với lab đã được đầu tư, trang bị (CNC machines, 3d printers etc..). Vậy nên mình cũng không nhất thiết phải bắt đầu một space mới! :) Đây có lẽ là ý tưởng chết nhanh nhất của mình từ trước đến nay =)) Regardless, mình sẽ vẫn dữ domain này và có thể làm một cái gì đó khác với nó. Mình thấy makerspace / fablab rất hay và chuyên về phần cứng... Có thể mình sẽ làm về phần mềm chăng? Who knows. 
 
 ### Hackerspace là gì?
 
