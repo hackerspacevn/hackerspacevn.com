@@ -38,17 +38,13 @@ licenseimg = ""
     link = "/"
 
   [[params.navigation.list]]
-    name = "archives"
-    link = "/archives"
-
-  [[params.navigation.list]]
-    name = "what"
-    link = "https://en.wikipedia.org/wiki/Hackerspace"
-
-  [[params.navigation.list]]
     name = "time & place"
     link = "/whereandwhen"
 
+  [[params.navigation.list]]
+    name = "archives"
+    link = "/archives"
+    
   [[params.navigation.list]]
     name = "about"
     link = "/about"

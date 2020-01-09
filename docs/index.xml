@@ -20,8 +20,8 @@
 &lt;p&gt;Mình sẽ update thêm.&lt;/p&gt;
 &lt;h2 id=&#34;where&#34;&gt;Where&lt;/h2&gt;
 &lt;p&gt;Hiện tại bọn mình đang định làm ở soulmate restaurant nếu có thể thuê một phòng ở đây.&lt;/p&gt;
-&lt;div style = &#34;text-align:center&#34; &gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.704428315483!2d105.80048161498028!3d21.04450938598982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab3d1d7ba95b%3A0x8208f97408bb1bc8!2sSoulmate%20Restaurant!5e0!3m2!1sen!2sau!4v1578543644105!5m2!1sen!2sau&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;div style = &#34;text-align:center; max-width: 80%&#34;&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.704428315483!2d105.80048161498028!3d21.04450938598982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab3d1d7ba95b%3A0x8208f97408bb1bc8!2sSoulmate%20Restaurant!5e0!3m2!1sen!2sau!4v1578543644105!5m2!1sen!2sau&#34; max-width=&#34;600&#34; max-height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
  </description>
     </item>
